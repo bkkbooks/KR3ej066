@@ -1,0 +1,1590 @@
+canonical_identifier: bkk:krp/KR3ej066/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ej066/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 痘疹心法
+  identifiers:
+    krp: KR3ej066
+  tags:
+    kr-categories: KR3ej
+    tls-dates: dat04250
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ej066.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3ej066_000-jc.yaml, hash: 'sha256:ecd7b0dad1b31806f3d89a810a0711de3085372895139ae1519e5bbe7da3e30a'}
+  - {seq: 1, filename: KR3ej066_001-jc.yaml, hash: 'sha256:eb849fc30960fdb3637dba97c4c916fba73d85e722aaa52270b78d3a27aab922'}
+  - {seq: 2, filename: KR3ej066_002-jc.yaml, hash: 'sha256:6d2ddfccb609738a39ec315f8e65766c4e03cbc1cfc65659baf67b85778409db'}
+  - {seq: 3, filename: KR3ej066_003-jc.yaml, hash: 'sha256:5bdd2a37ed0b4cf27e642a369eeaa1765db257ab80e30730d3ec23df52122eeb'}
+  - {seq: 4, filename: KR3ej066_004-jc.yaml, hash: 'sha256:22cc8b5ec1321ba078cd0f8c95581944091da062763aa3628bec82d80f6c3470'}
+  - {seq: 5, filename: KR3ej066_005-jc.yaml, hash: 'sha256:b1a5ec9fcb5074b25be1f88a2b1795b4ad1993ad3dcbc8f8fbea05755f5d7f11'}
+  - {seq: 6, filename: KR3ej066_006-jc.yaml, hash: 'sha256:fd5f491ff4bec758be87b5c3b8400b6449ea110af91e710d62291eae78ed45c0'}
+  - {seq: 7, filename: KR3ej066_007-jc.yaml, hash: 'sha256:2e4d5d83abf8fe9b7fc0a33f9c13c052499d1ce8ebff0ea4ea8f631a8a919293'}
+  - {seq: 8, filename: KR3ej066_008-jc.yaml, hash: 'sha256:d68d0c0e1a8dadcc431904beb28442319161c5d4e04ee3bd27045e8d91902d5c'}
+  - {seq: 9, filename: KR3ej066_009-jc.yaml, hash: 'sha256:25ec57ae165ae928e9843c879c2d018010df6e959d30e6495b6966332ae3ce46'}
+  - {seq: 10, filename: KR3ej066_010-jc.yaml, hash: 'sha256:ef49a0b5276611b3aa7d52f0bb41817793f07c5adb5a27230c979dd68c0a64d9'}
+  - {seq: 11, filename: KR3ej066_011-jc.yaml, hash: 'sha256:72cd65e087ceef39f09ebfde5817750d52bb760bce398c0c79f963e036223c90'}
+  - {seq: 12, filename: KR3ej066_012-jc.yaml, hash: 'sha256:32394dbf17a78834a722c6e96a3ca8039d0a816f09ef47fff2b18863dc7e3deb'}
+  - {seq: 13, filename: KR3ej066_013-jc.yaml, hash: 'sha256:40a9975386e0a1e626377c64bedd325b8682280c0ec2780ccf2bf9d108d4d697'}
+  - {seq: 14, filename: KR3ej066_014-jc.yaml, hash: 'sha256:c6996e67e8d817e84bdb2179226babf6b238ae22d9fc7605ea0e57685802fa42'}
+  - {seq: 15, filename: KR3ej066_015-jc.yaml, hash: 'sha256:af686b40981e66f05331c752b81542465eae39f6935bffd6f79e6d75f3c3155a'}
+  - {seq: 16, filename: KR3ej066_016-jc.yaml, hash: 'sha256:4fd6cc31dda13b41c75973239cc1482a1665133eb9f42aeae9da39954c39d851'}
+  - {seq: 17, filename: KR3ej066_017-jc.yaml, hash: 'sha256:40f0e05756206fc3be802c5bec98cdae19deba1b547ff280581ddce1258a3c39'}
+  - {seq: 18, filename: KR3ej066_018-jc.yaml, hash: 'sha256:6ea5477500bc27bd3e109f336841fbe14b9352bfa1fe36e10f043ac4a798a120'}
+  - {seq: 19, filename: KR3ej066_019-jc.yaml, hash: 'sha256:b450d3fa0391387e6281f169a864f73f0862f22952f27288c9d74c4ab516c516'}
+  - {seq: 20, filename: KR3ej066_020-jc.yaml, hash: 'sha256:94e3a4750844ea2d418d5377c5dad34a4ae4bf3f6c93e4f6fbecf624a1700e53'}
+  - {seq: 21, filename: KR3ej066_021-jc.yaml, hash: 'sha256:f3351fb12ed36c1bacf77e8a05bbd47518fd294280cf0d4668be0b089fb0f3cb'}
+  - {seq: 22, filename: KR3ej066_022-jc.yaml, hash: 'sha256:a584ce020ea60aaa17d928821924d7d429b20a7cbc600ee95fbc208278c7c2c2'}
+  - {seq: 23, filename: KR3ej066_023-jc.yaml, hash: 'sha256:fb83e647eef891e69d8d0f2cbd9ba9188d4c5f873ca5cc82a45f6f649acb20c0'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ej066_000-jc.markers.yaml, hash: 'sha256:1e1e2ec66a7f4b9982052c590ff9a3dc76740f73b4fc77ec0bf886b76b0c93fc'}
+  - {seq: 1, role: markers, filename: assets/KR3ej066_001-jc.markers.yaml, hash: 'sha256:157f8e49b3cb7f9c118a5771e27f95071677aff9a8128f81e23037e92fdca922'}
+  - {seq: 2, role: markers, filename: assets/KR3ej066_002-jc.markers.yaml, hash: 'sha256:3bcaa4bb8a4c23205fa2fd8acce8b3168fcd92a4cd18af484ff9f937ca9f58f6'}
+  - {seq: 3, role: markers, filename: assets/KR3ej066_003-jc.markers.yaml, hash: 'sha256:7b841e46ea8d6830d657a83a4630f41bf63af1f01afaa90cb6c6b0b42879ed79'}
+  - {seq: 4, role: markers, filename: assets/KR3ej066_004-jc.markers.yaml, hash: 'sha256:5231ad72d1958b23ec3a19978cb22c601f76275348fd844a6b4996e062d83c48'}
+  - {seq: 5, role: markers, filename: assets/KR3ej066_005-jc.markers.yaml, hash: 'sha256:17356da3f84daf58e935804867067710b953b1fb6225c4408b7879ce041b10d0'}
+  - {seq: 6, role: markers, filename: assets/KR3ej066_006-jc.markers.yaml, hash: 'sha256:c3c4510d5964237bc4bc6e0a9ec0731ede22a2986c2dfec56e32644ba1494774'}
+  - {seq: 7, role: markers, filename: assets/KR3ej066_007-jc.markers.yaml, hash: 'sha256:0e6a4560a9ea2a725df2886bd18b7f1777475696efd743c8c6268d56f8528773'}
+  - {seq: 8, role: markers, filename: assets/KR3ej066_008-jc.markers.yaml, hash: 'sha256:cd471751efa375dbef3279ddea5a27e9f7563b219f999738b8ccd721e85aa992'}
+  - {seq: 9, role: markers, filename: assets/KR3ej066_009-jc.markers.yaml, hash: 'sha256:b55ef1f5d8d4a9245323ef0419bbb1764d3a2893cdbab982168a54f81561c6e5'}
+  - {seq: 10, role: markers, filename: assets/KR3ej066_010-jc.markers.yaml, hash: 'sha256:076e8dd1cf40698d46823217b5b59fe201cbae9262fef2189cff7c30d42aa9eb'}
+  - {seq: 11, role: markers, filename: assets/KR3ej066_011-jc.markers.yaml, hash: 'sha256:fb54b49883346abfe3bf83213a786d7ad72c644e5ea50edb4fa0734aea4ae605'}
+  - {seq: 12, role: markers, filename: assets/KR3ej066_012-jc.markers.yaml, hash: 'sha256:613fc7e04499cc38d51351b4d8099f4ba49731ba2eae685b1a4d16c7c8dbfa3b'}
+  - {seq: 13, role: markers, filename: assets/KR3ej066_013-jc.markers.yaml, hash: 'sha256:c2634aba7af7431cad9b632dfb83fd9d3515ed8ca7f9b4177bde941e13d9d7d2'}
+  - {seq: 14, role: markers, filename: assets/KR3ej066_014-jc.markers.yaml, hash: 'sha256:8fc1e2faea1638cea933d0a9fca921c0e48eb8be146c8d3c959a65ffa018a7d1'}
+  - {seq: 15, role: markers, filename: assets/KR3ej066_015-jc.markers.yaml, hash: 'sha256:8f6ad2aaa30e6f6f674d7278f627d531290b25d8d678f6be2b15281c48b5dd6f'}
+  - {seq: 16, role: markers, filename: assets/KR3ej066_016-jc.markers.yaml, hash: 'sha256:75bb8b70f65605945e77a2cb6e11f9cfb1f25a5d97dc6af70733461b03134187'}
+  - {seq: 17, role: markers, filename: assets/KR3ej066_017-jc.markers.yaml, hash: 'sha256:76fe4b199ffa80c88062cf4c8a6c39aae4b52eb75c8eeb9237d3e5865b8cb82f'}
+  - {seq: 18, role: markers, filename: assets/KR3ej066_018-jc.markers.yaml, hash: 'sha256:d14e259a88df98dcd1fd554af8d0b35aebce27c940a1c7e20a06fd175e980487'}
+  - {seq: 19, role: markers, filename: assets/KR3ej066_019-jc.markers.yaml, hash: 'sha256:3ad55eab033934e2b5be6d0c5f19cae94d29d796a0429ae988514d54b7fb297a'}
+  - {seq: 20, role: markers, filename: assets/KR3ej066_020-jc.markers.yaml, hash: 'sha256:a9b4db851b186b29e466b7b4d737a144349797d8e747ba744c24f5ae8e551ed7'}
+  - {seq: 21, role: markers, filename: assets/KR3ej066_021-jc.markers.yaml, hash: 'sha256:bf3b8cdf00e1cab5563257c4340c0755caffa346533d2c2a6e1117135c0850e5'}
+  - {seq: 22, role: markers, filename: assets/KR3ej066_022-jc.markers.yaml, hash: 'sha256:ffd72f34d441495211bf7620aea696667e7b7faaa966f4322bd11c8208ca327b'}
+  - {seq: 23, role: markers, filename: assets/KR3ej066_023-jc.markers.yaml, hash: 'sha256:05aafbf236ef7085c01769bc3a676b49b54f19a63c80a1e7ad235c0e5627cab9'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ej066_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 352
+  label: 痘疹世醫心法自序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej066_jc_000-d4.h1s1
+    span:
+    - front
+    - 352
+    - 608
+  label: 痘疹格致要論自序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej066_jc_000-d5.h1s1
+    span:
+    - front
+    - 608
+    - 844
+  label: 孫應鰲痘診心要序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej066_jc_000-d6.h1s1
+    span:
+    - front
+    - 844
+    - 1176
+  label: 重刻痘疹心要自序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej066_jc_000-d9.h1s1
+    span:
+    - front
+    - 1176
+    - 1423
+  label: 陳允升刻痘疹心要序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej066_jc_000-d10.h1s1
+    span:
+    - front
+    - 1423
+    - 1846
+  label: 曹繼孝重刻痘疹心要序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej066_jc_000-d11.h1s1
+    span:
+    - front
+    - 1846
+    - 2204
+  label: 張鶴鳴刻痘疹心要後序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej066_jc_000-d12.h1s1
+    span:
+    - front
+    - 2204
+    - 2859
+  label: 丁此呂重鍥痘疹心要序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej066_jc_000-d3.h1s1
+    span:
+    - body
+    - 0
+    - 95
+  label: 萬全痘疹碎金賦題跋
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej066_jc_000-d7.h1s1
+    span:
+    - body
+    - 95
+    - 398
+  label: 萬全痘疹心要改刻始末
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej066_jc_000-d8.h1s1
+    span:
+    - body
+    - 398
+    - 760
+  label: 孫光祖讀世醫心法敘
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej066_jc_000-d13.h1s1
+    span:
+    - body
+    - 760
+    - 993
+  label: 秦大夔重刻痘疹心要引
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej066_jc_000-d14.h1s1
+    span:
+    - body
+    - 993
+    - 1178
+  label: 龔景福跋
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ej066_jc_001-d15.h1s1
+    span:
+    - body
+    - 0
+    - 9830
+  label: 卷之一
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ej066_jc_001-d15d2
+    span:
+    - body
+    - 3
+    - 4774
+  label: 痘疹碎金賦二首
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ej066_jc_001-d15.d2d2
+    span:
+    - body
+    - 10
+    - 3614
+  label: 賦上
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ej066_jc_001-d15.d2d3
+    span:
+    - body
+    - 3614
+    - 4774
+  label: 賦下
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ej066_jc_001-d15d3
+    span:
+    - body
+    - 4774
+    - 5709
+  label: 原痘論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ej066_jc_001-d15d4
+    span:
+    - body
+    - 5709
+    - 6856
+  label: 胎毒論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ej066_jc_001-d15d5
+    span:
+    - body
+    - 6856
+    - 7364
+  label: 瘡疹惟腎無候論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ej066_jc_001-d15d6
+    span:
+    - body
+    - 7364
+    - 7738
+  label: 腎主痘中之水論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ej066_jc_001-d15d7
+    span:
+    - body
+    - 7738
+    - 8390
+  label: 痘疹五臟證見論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ej066_jc_001-d15d8
+    span:
+    - body
+    - 8390
+    - 8977
+  label: 臟腑主證治
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ej066_jc_001-d15d9
+    span:
+    - body
+    - 8977
+    - 9830
+  label: 六氣十二經所主證治
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej066_jc_002-d16.h1s1
+    span:
+    - body
+    - 0
+    - 6162
+  label: 卷之二
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3ej066_jc_002-d16d2
+    span:
+    - body
+    - 3
+    - 446
+  label: 氣運
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej066_jc_002-d16d3
+    span:
+    - body
+    - 446
+    - 711
+  label: 疫癘
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej066_jc_002-d16d4
+    span:
+    - body
+    - 711
+    - 1051
+  label: 部位
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej066_jc_002-d16d5
+    span:
+    - body
+    - 1051
+    - 1375
+  label: 脈候
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej066_jc_002-d16d6
+    span:
+    - body
+    - 1375
+    - 1731
+  label: 氣血
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej066_jc_002-d16d7
+    span:
+    - body
+    - 1731
+    - 1976
+  label: 陰陽
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej066_jc_002-d16d8
+    span:
+    - body
+    - 1976
+    - 2279
+  label: 標本
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej066_jc_002-d16d9
+    span:
+    - body
+    - 2279
+    - 2516
+  label: 形色
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej066_jc_002-d16d10
+    span:
+    - body
+    - 2516
+    - 2833
+  label: 疏密
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej066_jc_002-d16d11
+    span:
+    - body
+    - 2833
+    - 3077
+  label: 輕重
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej066_jc_002-d16d12
+    span:
+    - body
+    - 3077
+    - 3398
+  label: 順逆
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej066_jc_002-d16d13
+    span:
+    - body
+    - 3398
+    - 3866
+  label: 痘有怪變
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej066_jc_002-d16d14
+    span:
+    - body
+    - 3866
+    - 4393
+  label: 虛實
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej066_jc_002-d16d15
+    span:
+    - body
+    - 4393
+    - 4676
+  label: 動靜
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej066_jc_002-d16d16
+    span:
+    - body
+    - 4676
+    - 5000
+  label: 痛癢
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej066_jc_002-d16d17
+    span:
+    - body
+    - 5000
+    - 5271
+  label: 老嫩
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej066_jc_002-d16d18
+    span:
+    - body
+    - 5271
+    - 5517
+  label: 榮枯
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej066_jc_002-d16d19
+    span:
+    - body
+    - 5517
+    - 5750
+  label: 善惡
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej066_jc_002-d16d20
+    span:
+    - body
+    - 5750
+    - 6162
+  label: 始終
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ej066_jc_003-d17.h1s1
+    span:
+    - body
+    - 0
+    - 9216
+  label: 卷之三
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ej066_jc_003-d17d2
+    span:
+    - body
+    - 3
+    - 461
+  label: 發熱
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ej066_jc_003-d17d3
+    span:
+    - body
+    - 461
+    - 830
+  label: 渴
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ej066_jc_003-d17d4
+    span:
+    - body
+    - 830
+    - 1052
+  label: 腰痛
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ej066_jc_003-d17d5
+    span:
+    - body
+    - 1052
+    - 1432
+  label: 腹痛
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ej066_jc_003-d17d6
+    span:
+    - body
+    - 1432
+    - 1786
+  label: 驚狂
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ej066_jc_003-d17d7
+    span:
+    - body
+    - 1786
+    - 2123
+  label: 譫妄
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ej066_jc_003-d17d8
+    span:
+    - body
+    - 2123
+    - 2419
+  label: 吐利
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ej066_jc_003-d17d9
+    span:
+    - body
+    - 2419
+    - 2717
+  label: 嘔吐噦
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ej066_jc_003-d17d10
+    span:
+    - body
+    - 2717
+    - 3140
+  label: 泄利
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ej066_jc_003-d17d11
+    span:
+    - body
+    - 3140
+    - 3474
+  label: 大小便秘
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ej066_jc_003-d17d12
+    span:
+    - body
+    - 3474
+    - 3705
+  label: 咳嗽
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ej066_jc_003-d17d13
+    span:
+    - body
+    - 3705
+    - 3958
+  label: 喘急
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ej066_jc_003-d17d14
+    span:
+    - body
+    - 3958
+    - 4332
+  label: 自汗
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ej066_jc_003-d17d15
+    span:
+    - body
+    - 4332
+    - 4514
+  label: 失血
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ej066_jc_003-d17d16
+    span:
+    - body
+    - 4514
+    - 4937
+  label: 煩躁
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ej066_jc_003-d17d17
+    span:
+    - body
+    - 4937
+    - 5139
+  label: 夾疹
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ej066_jc_003-d17d18
+    span:
+    - body
+    - 5139
+    - 5308
+  label: 夾斑
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ej066_jc_003-d17d19
+    span:
+    - body
+    - 5308
+    - 5744
+  label: 痘疔
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ej066_jc_003-d17d20
+    span:
+    - body
+    - 5744
+    - 5975
+  label: 痘癩
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ej066_jc_003-d17d21
+    span:
+    - body
+    - 5975
+    - 6469
+  label: 癢塌
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ej066_jc_003-d17d22
+    span:
+    - body
+    - 6469
+    - 7106
+  label: 陷伏
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ej066_jc_003-d17d23
+    span:
+    - body
+    - 7106
+    - 7567
+  label: 壅腫
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ej066_jc_003-d17d24
+    span:
+    - body
+    - 7567
+    - 7802
+  label: 潰爛
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ej066_jc_003-d17d25
+    span:
+    - body
+    - 7802
+    - 8094
+  label: 厥逆
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ej066_jc_003-d17d26
+    span:
+    - body
+    - 8094
+    - 8649
+  label: 寒戰咬牙
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ej066_jc_003-d17d27
+    span:
+    - body
+    - 8649
+    - 9060
+  label: 暴啞失聲
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ej066_jc_003-d17d28
+    span:
+    - body
+    - 9060
+    - 9216
+  label: 嗆水吐食
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ej066_jc_004-d18.h1s1
+    span:
+    - body
+    - 0
+    - 3387
+  label: 卷之四
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3ej066_jc_004-d18d2
+    span:
+    - body
+    - 3
+    - 817
+  label: 驗頭面
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ej066_jc_004-d18d3
+    span:
+    - body
+    - 817
+    - 1661
+  label: 驗耳目鼻
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ej066_jc_004-d18d4
+    span:
+    - body
+    - 1661
+    - 1982
+  label: 驗唇口牙齒
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ej066_jc_004-d18d5
+    span:
+    - body
+    - 1982
+    - 2388
+  label: 驗喉舌
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ej066_jc_004-d18d6
+    span:
+    - body
+    - 2388
+    - 2575
+  label: 驗頸項
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ej066_jc_004-d18d7
+    span:
+    - body
+    - 2575
+    - 2680
+  label: 驗胸腹
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ej066_jc_004-d18d8
+    span:
+    - body
+    - 2680
+    - 3014
+  label: 驗手足
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ej066_jc_004-d18d9
+    span:
+    - body
+    - 3014
+    - 3208
+  label: 驗寢臥
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ej066_jc_004-d18d10
+    span:
+    - body
+    - 3208
+    - 3387
+  label: 驗飲食
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ej066_jc_005-d19.h1s1
+    span:
+    - body
+    - 0
+    - 3899
+  label: 卷之五
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3ej066_jc_005-d19d2
+    span:
+    - body
+    - 3
+    - 842
+  label: 治痘要略
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ej066_jc_005-d19d3
+    span:
+    - body
+    - 842
+    - 1359
+  label: 攻補利害
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ej066_jc_005-d19d4
+    span:
+    - body
+    - 1359
+    - 1829
+  label: 巫醫得失
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ej066_jc_005-d19d5
+    span:
+    - body
+    - 1829
+    - 2097
+  label: 雜症宜攻
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ej066_jc_005-d19d6
+    span:
+    - body
+    - 2097
+    - 2433
+  label: 壞病不治
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ej066_jc_005-d19d7
+    span:
+    - body
+    - 2433
+    - 2679
+  label: 飲食所禁
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ej066_jc_005-d19d8
+    span:
+    - body
+    - 2679
+    - 2919
+  label: 異氣所害
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ej066_jc_005-d19d9
+    span:
+    - body
+    - 2919
+    - 3055
+  label: 起發不透
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ej066_jc_005-d19d10
+    span:
+    - body
+    - 3055
+    - 3350
+  label: 收靨不齊
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ej066_jc_005-d19d11
+    span:
+    - body
+    - 3350
+    - 3578
+  label: 差後餘症
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ej066_jc_005-d19d12
+    span:
+    - body
+    - 3578
+    - 3899
+  label: 痘後餘毒
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ej066_jc_006-d20.h1s1
+    span:
+    - body
+    - 0
+    - 8341
+  label: 卷之六
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3ej066_jc_006-d20d2
+    span:
+    - body
+    - 3
+    - 306
+  label: 痘疹症似傷寒辨
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ej066_jc_006-d20d3
+    span:
+    - body
+    - 306
+    - 589
+  label: 痘瘡首尾不可汗下辨
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ej066_jc_006-d20d4
+    span:
+    - body
+    - 589
+    - 992
+  label: 痘瘡不可以日期論辨
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ej066_jc_006-d20d5
+    span:
+    - body
+    - 992
+    - 1248
+  label: 大人小兒富貴貧賤不同辨
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ej066_jc_006-d20d6
+    span:
+    - body
+    - 1248
+    - 1441
+  label: 升麻葛根湯辨
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ej066_jc_006-d20d7
+    span:
+    - body
+    - 1441
+    - 2052
+  label: 瘡疹順逆辨
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ej066_jc_006-d20d8
+    span:
+    - body
+    - 2052
+    - 2603
+  label: 瘡疹變黑歸腎辨
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ej066_jc_006-d20d9
+    span:
+    - body
+    - 2603
+    - 2998
+  label: 痘瘡變黑有順逆辨
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ej066_jc_006-d20d10
+    span:
+    - body
+    - 2998
+    - 3174
+  label: 諸痛癢瘡皆屬於心辨
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ej066_jc_006-d20d11
+    span:
+    - body
+    - 3174
+    - 3461
+  label: 過飲冷水變生諸症辨
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ej066_jc_006-d20d12
+    span:
+    - body
+    - 3461
+    - 4071
+  label: 錢氏陳氏立法用藥同異辨
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ej066_jc_006-d20d13
+    span:
+    - body
+    - 4071
+    - 6183
+  label: 補脾土瀉腎水辨
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ej066_jc_006-d20d14
+    span:
+    - body
+    - 6183
+    - 6787
+  label: 瀉膿血痂皮水穀辨
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ej066_jc_006-d20d15
+    span:
+    - body
+    - 6787
+    - 7222
+  label: 斑疹論
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ej066_jc_006-d20d16
+    span:
+    - body
+    - 7222
+    - 8341
+  label: 五行生死論
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ej066_jc_007-d21.h1s1
+    span:
+    - body
+    - 0
+    - 4654
+  label: 卷之七
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR3ej066_jc_007-d21d2
+    span:
+    - body
+    - 3
+    - 4654
+  label: 先哲格言
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ej066_jc_008-d22.h1s1
+    span:
+    - body
+    - 0
+    - 3577
+  label: 卷之八
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR3ej066_jc_008-d22d2
+    span:
+    - body
+    - 3
+    - 3577
+  label: 或問
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ej066_jc_009-d23.h1s1
+    span:
+    - body
+    - 0
+    - 3632
+  label: 卷之九
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR3ej066_jc_009-d23d2
+    span:
+    - body
+    - 3
+    - 3632
+  label: 治痘凡例
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3ej066_jc_010-d24.h1s1
+    span:
+    - body
+    - 0
+    - 4853
+  label: 卷之十
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR3ej066_jc_010-d24d2
+    span:
+    - body
+    - 3
+    - 168
+  label: 藥性主治及修製法
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3ej066_jc_010-d24d3
+    span:
+    - body
+    - 168
+    - 3671
+  label: 氣類
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3ej066_jc_010-d24d4
+    span:
+    - body
+    - 3671
+    - 4853
+  label: 血類
+  type: section
+  level: 2
+- ref:
+    seq: 11
+    marker_id: KR3ej066_jc_011-d25.h1s1
+    span:
+    - body
+    - 0
+    - 4767
+  label: 卷之十一
+  type: section
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR3ej066_jc_011-d25d2
+    span:
+    - body
+    - 4
+    - 4767
+  label: 解毒類
+  type: section
+  level: 2
+- ref:
+    seq: 12
+    marker_id: KR3ej066_jc_012-d26.h1s1
+    span:
+    - body
+    - 0
+    - 6928
+  label: 卷之十二
+  type: section
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR3ej066_jc_012-d26d2
+    span:
+    - body
+    - 4
+    - 202
+  label: 治痘歌括
+  type: section
+  level: 2
+- ref:
+    seq: 12
+    marker_id: KR3ej066_jc_012-d26d3
+    span:
+    - body
+    - 202
+    - 6928
+  label: 治痘總歌括
+  type: section
+  level: 2
+- ref:
+    seq: 13
+    marker_id: KR3ej066_jc_013-d27.h1s1
+    span:
+    - body
+    - 0
+    - 5430
+  label: 卷之十三
+  type: section
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR3ej066_jc_013-d27d2
+    span:
+    - body
+    - 4
+    - 5430
+  label: 發熱症治歌括
+  type: section
+  level: 2
+- ref:
+    seq: 13
+    marker_id: KR3ej066_jc_013-d27.d2d156
+    span:
+    - body
+    - 5186
+    - 5430
+  label: 發熱時辨生死訣
+  type: section
+  level: 3
+- ref:
+    seq: 14
+    marker_id: KR3ej066_jc_014-d28.h1s1
+    span:
+    - body
+    - 0
+    - 7301
+  label: 卷之十四
+  type: section
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR3ej066_jc_014-d28d2
+    span:
+    - body
+    - 4
+    - 7301
+  label: 出見症治歌括凡二十二首
+  type: section
+  level: 2
+- ref:
+    seq: 14
+    marker_id: KR3ej066_jc_014-d28.d2d162
+    span:
+    - body
+    - 7026
+    - 7301
+  label: 出痘時辨生死訣
+  type: section
+  level: 3
+- ref:
+    seq: 15
+    marker_id: KR3ej066_jc_015-d29.h1s1
+    span:
+    - body
+    - 0
+    - 10340
+  label: 卷之十五
+  type: section
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR3ej066_jc_015-d29d2
+    span:
+    - body
+    - 4
+    - 10340
+  label: 起發症治歌括
+  type: section
+  level: 2
+- ref:
+    seq: 15
+    marker_id: KR3ej066_jc_015-d29.d2d286
+    span:
+    - body
+    - 10214
+    - 10340
+  label: 痘瘡起發辨生死訣
+  type: section
+  level: 3
+- ref:
+    seq: 16
+    marker_id: KR3ej066_jc_016-d30.h1s1
+    span:
+    - body
+    - 0
+    - 8921
+  label: 卷之十六
+  type: section
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR3ej066_jc_016-d30d2
+    span:
+    - body
+    - 4
+    - 8921
+  label: 成實症治歌括
+  type: section
+  level: 2
+- ref:
+    seq: 16
+    marker_id: KR3ej066_jc_016-d30.d2d262
+    span:
+    - body
+    - 8756
+    - 8921
+  label: 痘瘡養膿決生死訣
+  type: section
+  level: 3
+- ref:
+    seq: 17
+    marker_id: KR3ej066_jc_017-d31.h1s1
+    span:
+    - body
+    - 0
+    - 4811
+  label: 卷之十七
+  type: section
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR3ej066_jc_017-d31d2
+    span:
+    - body
+    - 4
+    - 4811
+  label: 收靨症治歌括
+  type: section
+  level: 2
+- ref:
+    seq: 17
+    marker_id: KR3ej066_jc_017-d31.d2d156
+    span:
+    - body
+    - 4676
+    - 4811
+  label: 痘靨辨生死訣
+  type: section
+  level: 3
+- ref:
+    seq: 18
+    marker_id: KR3ej066_jc_018-d32.h1s1
+    span:
+    - body
+    - 0
+    - 1868
+  label: 卷之十八
+  type: section
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR3ej066_jc_018-d32d2
+    span:
+    - body
+    - 4
+    - 1868
+  label: 落痂症治歌括
+  type: section
+  level: 2
+- ref:
+    seq: 19
+    marker_id: KR3ej066_jc_019-d33.h1s1
+    span:
+    - body
+    - 0
+    - 8008
+  label: 卷之十九
+  type: section
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR3ej066_jc_019-d33d2
+    span:
+    - body
+    - 4
+    - 8008
+  label: 痘後餘毒症治歌括
+  type: section
+  level: 2
+- ref:
+    seq: 20
+    marker_id: KR3ej066_jc_020-d34.h1s1
+    span:
+    - body
+    - 0
+    - 3587
+  label: 卷之二十
+  type: section
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR3ej066_jc_020-d34d2
+    span:
+    - body
+    - 4
+    - 3587
+  label: 疹毒症治歌括
+  type: section
+  level: 2
+- ref:
+    seq: 21
+    marker_id: KR3ej066_jc_021-d35.h1s1
+    span:
+    - body
+    - 0
+    - 1541
+  label: 卷之二十一
+  type: section
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR3ej066_jc_021-d35d2
+    span:
+    - body
+    - 5
+    - 1541
+  label: 婦人痘疹症治歌括
+  type: section
+  level: 2
+- ref:
+    seq: 22
+    marker_id: KR3ej066_jc_022-d36.h1s1
+    span:
+    - body
+    - 0
+    - 5645
+  label: 卷之二十二
+  type: section
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR3ej066_jc_022-d36d2
+    span:
+    - body
+    - 5
+    - 5645
+  label: 古今經驗諸方
+  type: section
+  level: 2
+- ref:
+    seq: 23
+    marker_id: KR3ej066_jc_023-d37.h1s1
+    span:
+    - body
+    - 0
+    - 3915
+  label: 卷之二十三
+  type: section
+  level: 1
+- ref:
+    seq: 23
+    marker_id: KR3ej066_jc_023-d37d2
+    span:
+    - body
+    - 5
+    - 3915
+  label: 古今經驗諸方
+  type: section
+  level: 2
+hash: sha256:e51728640a799a6afbe9bea1eac468b34c69cf003dad37ab3dde2cb31cb6ed4c
